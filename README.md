@@ -19,3 +19,5 @@ git clone [ssh密钥](https://www.cnblogs.com/ygfsy/p/13921892.html)
 git merge 合并分支
 
 git reset --soft <commit>
+
+git commit -u --- 提交远程存在的文件
